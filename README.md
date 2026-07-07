@@ -11,6 +11,8 @@ Integrantes:
 Rodriguez Ponce Mario Alejandro
 Emanuel Gomila
 Acuña Leandro Julián
+Aceval Pedro Nahuel
+
 
 ¿Qué hace el programa?
 A primeros indicios es una aplicación de toma de pedidos de delivery en este caso comida para mejor facilidad pero bien podria ser cualquier producto, toma el nombre y la dirección que ingresa el usuario o empleado y los guarda en un archivo txt llamado pedidos.
