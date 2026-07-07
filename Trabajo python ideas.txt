@@ -10,7 +10,7 @@ Lo dividiremos por los módulos clave que menciona tu enunciado:
 
 📋 Checklist de Requerimientos del Sistema
 1. Gestión de Pedidos (Registro e Importes)
-[ ] Registro de Pedidos: Crear un formulario o función para dar de alta un pedido ingresando datos esenciales (cliente, dirección, productos/artículos solicitados, fecha y hora).
+[x] Registro de Pedidos: Crear un formulario o función para dar de alta un pedido ingresando datos esenciales (cliente, dirección, productos/artículos solicitados, fecha y hora).
 
 [ ] Cálculo automático de importes: El sistema debe sumar el total de los productos seleccionados.
 
