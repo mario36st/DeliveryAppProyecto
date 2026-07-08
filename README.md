@@ -7,7 +7,8 @@ La solución podrá contemplar registro de pedidos, cálculo de importes, contro
 de ventas o zonas de reparto.
 Asimismo, podrá incorporar distintos estados de pedido y control de entregas realizadas.
 
-Integrantes:
+|COMISION: K1.1|
+|Integrantes:
 Rodriguez Ponce Mario Alejandro|
 Emanuel Gomila|
 Acuña Leandro Julián|
@@ -17,6 +18,7 @@ Nicora Jose Dario|
 ¿Qué hace el programa?
 A primeros indicios es una aplicación de toma de pedidos de delivery en este caso comida para mejor facilidad pero bien podria ser cualquier producto, toma el nombre y la dirección que ingresa el usuario o empleado y los guarda en un archivo txt llamado pedidos.
 
+|Instrucciones de ejecución: Ejecutar el archivo python.py ya sea en visual studio code o con python, ingresar datos y al apretar registrar pedido se guardara un archivo de texto|
 
 Utilización de la IA:
 Gemini: Pregunta acerca de como lograr que el algoritmo tome forma de aplicación con cuadro de texto interactivo.
