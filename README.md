@@ -1,4 +1,4 @@
-Trabajo de cierrre python
+Trabajo de cierre python
 Escenario 15
 Algoritmos y Estructuras de Datos
  Sistema de delivery
